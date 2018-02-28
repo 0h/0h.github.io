@@ -1,0 +1,15 @@
+# Site Settings
+locale                   : "en"
+title                    : "#"
+title_separator          : "-"
+name                     : "Halil Bayrakci"
+description              : "Notes about things."
+url                      : "http://halilb.com"
+
+markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable : true
+plugins:
+  - jekyll-gist
+  - jekyll-sitemap

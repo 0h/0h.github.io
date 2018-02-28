@@ -1,0 +1,16 @@
+{% include header.html %}
+
+<body>
+<div class="container">
+  <header class="masthead">
+    <h3 class="masthead-title">
+      <a href="/" title="{{ site.title }}">{{ site.title }}</a>
+    </h3>
+    <ul class="nav">
+      <li><a href="/">~/</a></li>
+    </ul>
+  </header>  
+  {{ content }}
+</div>
+
+{% include footer.html %}
