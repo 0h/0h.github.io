@@ -1,6 +1,5 @@
 Halil Bayrakci's Public Keys
 
-email: halilb@gmail.com
 Key fingerprint: 1CEF 2402 8F6D C84B 2463  7CCF 1105 C80D BFD0 F97E
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -53,8 +52,6 @@ S6dBwY/ANtD3xeVuaw55+TFuV/KPuEO00rG7TZTs+X8mjmYMe20I
 -----END PGP PUBLIC KEY BLOCK-----
 
 Ancient RSA Key:
-
-email: securex@gmail.com
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: SKS 1.1.6
